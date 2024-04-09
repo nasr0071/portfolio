@@ -1,0 +1,6 @@
+/* vertical line */
+
+.vertical-line {
+    border-left: 2px solid rgb(0, 0, 0); /* Adjust the thickness and color as needed */
+    height: 100%; /* Ensures the line extends the full height of the column */
+}
