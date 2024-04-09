@@ -36,6 +36,10 @@
     background-size: cover;
 }
 
+.card-link:hover .card {
+    outline: 1px solid #000;
+}
+
 /* footer */
 .footer {
     background-color: var(--primary)!important;
