@@ -1,10 +1,42 @@
 /* colors */
 :root {
-    --primary-color: #003442;
+    --primary: #003442;
+    --secondary: #016D94;
+    --tertiary: #FEE6D2;
+    --bs-tertiary-bg-rgb: #FEE6D2!important;
 }
 
+/* nav background */
 .navbar.bg-primary {
-    background-color: var(--primary-color) !important;
+    background-color: var(--primary) !important;
 }
 
 /* main banner */
+.main-banner.bg-secondary {
+    background-color: var(--secondary) !important;
+}
+
+/* contact button */
+.btn-tertiary {
+    --bs-btn-bg: var(--tertiary)!important;
+}
+
+/* about button */
+.btn-secondary {
+    --bs-btn-bg: var(--secondary)!important;
+}
+
+/* our services */
+.services{
+    background-color: var(--tertiary)!important;
+}
+
+.portfolio {
+    background: url(../images/portfolio.jpg) no-repeat center;
+    background-size: cover;
+}
+
+/* footer */
+.footer {
+    background-color: var(--primary)!important;
+}
