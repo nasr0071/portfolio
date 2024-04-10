@@ -1,5 +1,8 @@
 # portfolio
 
+**Orginal figma file**
+[Figma](https://www.figma.com/file/IplAWdVQnki4mxwWig6UKL/High-Fidelity-Wireframes?type=design&node-id=0%3A1&mode=design&t=iqs1CrEyx1L6RX1e-1)
+
 **Tell us about your process, challenges you faced during development and how you overcame those changes. What have you learned by creating your web portfolio?**
 
 Starting this assignment was a bit of a challenge since my initial website design was very complex. I had to simplify my layout since it felt over complicated and hid some content depending on the layout. Some text was very small and hard to read so I had to enlarge the font size. I struggled with redesigning the layout and made some changes as I went. I prefer my current website design over my original since it's more functional, minimal, and more visually pleasing.
